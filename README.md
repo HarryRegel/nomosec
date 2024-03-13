@@ -1,4 +1,4 @@
-# TechStride Consultancy 
+# NOMOSEC
 
 Welcome to the TechStride Consultancy Website Template! This template is designed to help technology-oriented consulting firms showcase their services and expertise. Whether you specialize in Professional Website Design, App Development, Cloud Services, Cyber Security, Data Analytics, or a combination of these, TechStride Consultancy has got you covered.
 
